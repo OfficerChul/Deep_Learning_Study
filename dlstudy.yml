@@ -1,0 +1,9 @@
+name: dlstudy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - spyder
+  - jupyterlab
+  - numpy
+prefix: C:\SpeechBCI\envs\dlstudy
